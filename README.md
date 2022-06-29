@@ -2,7 +2,7 @@
 This is a python application for managing products of a pet shop. 
 
 ### Specifications
-* Each product contains a product no., brand,type, weight, and no. of stock items
+* Each product contains a product no., brand, type, weight, and no. of stock items
 * Can add, view, and delete a product
 * Can view and delete all products
 * Saves and loads the records using a file text
