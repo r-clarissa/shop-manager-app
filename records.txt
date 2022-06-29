@@ -1,0 +1,6 @@
+P001<#>Feline Fresh<#>cat litter<#>5kg<#>25
+P002<#>Whiskas<#>canned cat food<#>400g<#>25
+P003<#>Vitality<#>puppy food<#>5kg<#>30
+P004<#>NutriChunks<#>puppy food<#>5kg<#>30
+P005<#>Holistic<#>puppy food<#>5kg<#>30
+P006<#>Special Cat<#>cat food<#>5kg<#>30
